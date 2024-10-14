@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\17138\3D Objects\VT\Applied\MatrixCalc\Build\CMakeFiles\fe02e77c37d3c24fc50f640fdaf48386\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DB55276A-4513-3973-B42E-D224C7482621}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

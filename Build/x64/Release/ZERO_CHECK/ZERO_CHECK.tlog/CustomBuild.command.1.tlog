@@ -1,0 +1,10 @@
+^C:\USERS\17138\3D OBJECTS\VT\APPLIED\MATRIXCALC\BUILD\CMAKEFILES\FE02E77C37D3C24FC50F640FDAF48386\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/17138/3D Objects/VT/Applied/MatrixCalc" "-BC:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build/MatrixCalc.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

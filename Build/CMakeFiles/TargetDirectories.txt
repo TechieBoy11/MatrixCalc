@@ -1,0 +1,4 @@
+C:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build/CMakeFiles/MatrixCalc.dir
+C:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build/CMakeFiles/test_exe.dir
+C:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/17138/3D Objects/VT/Applied/MatrixCalc/Build/CMakeFiles/ZERO_CHECK.dir
